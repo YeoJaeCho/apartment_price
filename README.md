@@ -31,8 +31,8 @@
    - Rest Model Test : Linear Regression, Polynomial Regression, Ridge, Lasso, ElasticNet
                        Decision Tree Regressor, Random Forest Regressor, Linear SVR
                        
-## Scoring by
+## Scoring
 - mean squared error (MSE)
 
-## presentation
+## Presentation
 - 22기 2차 미니 프로젝트 4팀.pdf : 2022/09/20 발표 자료
