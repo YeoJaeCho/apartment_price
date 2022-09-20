@@ -15,7 +15,7 @@
 
 ## Coding
 1. data_cleansing.ipynb
-   - apt, day_care, park1 테이블 변수들을 정리 후 apartment_price 파일로 저장 
+   - apt.csv, day_care.csv, park1.csv 테이블 변수들을 정리 후 apartment_price.csv 파일로 저장 
 2. EDA_and_modeling(1).ipynb 
    - EDA
    - Linear Regression, Polynomial Regression, Ridge, Lasso, ElasticNet, 
