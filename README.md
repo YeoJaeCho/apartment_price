@@ -4,7 +4,7 @@
 - 팀원 : 조여재, 엄대용, 박상우
 - 기간 : 2022/09/14 - 2022/09/20
 - 발표 : 2022/09/20
-- used by: Jupyter notebook, PPT
+- Language : Jupyter notebook
 
 ## Dataset
 - apt.csv : 아파트 매매 실거래가 [출처 : 국토교통부 실거래가 공개 시스템]
