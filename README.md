@@ -33,6 +33,7 @@
                        
 ## Scoring
 - mean squared error (MSE)
+- 데이터의 성능을 MSE로 평가했지만 실제로는 log를 취한 값의 MSE값을 구한 것이므로 정확하게는 MSLE(Mean Squared Log Error)를 구한 것이라고 할 수 있음 
 
 ## Presentation
 - 22기 2차 미니 프로젝트 4팀.pdf : 2022/09/20 발표 자료
